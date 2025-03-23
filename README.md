@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushikeshghodke" alt="rushikeshghodke" /></a> </p>
 
-- 🔭 I’m currently working on **a SaaS product**
+- 🔭 I’m currently working on **a SaaS product** 
 
 - 🌱 I’m currently learning **Django and AIML**
 
