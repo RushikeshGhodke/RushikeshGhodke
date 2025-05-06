@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Ghodke</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A fullstack developer and devops person from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushikeshghodke" alt="rushikeshghodke" /></a> </p>
 
-- 🔭 I’m currently working on **a SaaS product** 
+- 🔭 Upcoming Intern at MNC 
 
-- 🌱 I’m currently learning **Django and AIML**
+- 🌱 I’m currently working on **DevOps Projects**
 
 - 👨‍💻 All of my projects are available at [https://www.rushikeshghodke.tech/](https://www.rushikeshghodke.tech/)
 
-- 💬 Ask me about **react, node, engineering, etc**
+- 💬 Ask me about **react, node, devops, engineering, etc**
 
 - 📫 How to reach me **rushikeshnandughodke@gmail.com**
 
