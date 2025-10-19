@@ -12,6 +12,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=RushikeshGhodke&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshGhodke&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## Roadmap.sh
+[![roadmap.sh](https://roadmap.sh/card/wide/68cfaf141a0296edefbbe90d?variant=light)](https://roadmap.sh)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RushikeshGhodke&theme=buefy&no-frame=true&no-bg=false&margin-w=4)
 
